@@ -21,6 +21,8 @@ The following screenshot shows the localized GridDateTimeColumn button text,
 
 ![Shows localized text for Today and None button text in GridDateTimeColumn](Localized.png)
 
+KB article - [How to localize the GridDateTimeColumn button text in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/11879/how-to-localize-the-griddatetimecolumn-button-text-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
 
